@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/Tile.png</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/TileClicked.png</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/ResetButton.png</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/ResetButtonDead.png</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/TileBomb.png</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/Tahoma.spritefont</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/Tile8.png</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/Tile1.png</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/Tile2.png</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/Tile3.png</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/Tile4.png</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/Tile5.png</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/Tile6.png</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/Tile7.png</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/TileFlag.png</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/MinusButton.png</File>
+    <File>D:/Dev Remade/AI/Minesweeper/MinesweeperAI/MinesweeperAI/Content/PlusButton.png</File>
+  </SourceFiles>
+</SourceFileCollection>
